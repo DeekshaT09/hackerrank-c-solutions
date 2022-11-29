@@ -1,3 +1,6 @@
+//program to solve array reversal using c
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
